@@ -2,9 +2,9 @@
 /*
 Plugin Name: BHW Tv And Movie Site Plugin
 Description: Update site with latest streaming TV shows and movies
-Author: infTee
+Author: Jalavika
 Version: 2.5
-Author URI: https://www.blackhatworld.com/members/inftee.99316/
+Author URI: https://github.com/jalavika
 */
 
 register_activation_hook(__FILE__, 'initialise_tv_site_plugin');
